@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386129110144",
+    "firebase_url": "https://deno-574f5.firebaseio.com",
+    "project_id": "deno-574f5",
+    "storage_bucket": "deno-574f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386129110144:android:26522c671638b79f563265",
+        "android_client_info": {
+          "package_name": "com.example.tryauthmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386129110144-7v1if1b5ku3fefns04fllhgga52cc8j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUVnyCWkipbEoirEIXgBQIcvlp_RNZxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386129110144-7v1if1b5ku3fefns04fllhgga52cc8j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
